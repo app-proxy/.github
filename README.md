@@ -1,5 +1,5 @@
 
-### This is a special repository.<br>It contains the organization's <sub>.github/profile/README.md</sub> 
+### This is a special repository.<br>It contains the organization's <sup>.github/profile/README.md</sup> 
 
 | Domain(s) | (Sub)directory |
 -|-
