@@ -6,4 +6,4 @@ Domain(s)
 | <a href="https://app-proxy.github.io/.github/" target="_blank">app-proxy.github.io</a> | <a href="https://app-proxy.cali.run/" target="_blank">app-proxy.cali.run</a> |
 
 ---
-<section style="align:right"> <a href="https://app-proxy.cali.run/README.md">README</a> RAW<br> <a href="https://app-proxy.cali.run/LICENSE">LICENSE</a> LOAD</section>
+<p align="right"> <a href="https://app-proxy.cali.run/README.md">README</a> RAW<br> <a href="https://app-proxy.cali.run/LICENSE">LICENSE</a> LOAD</p>
