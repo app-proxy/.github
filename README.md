@@ -1,5 +1,5 @@
 
-## app-proxy/.github is a special repository and contains it`s organization's profile. The /profile/README.md 
+## <code>app-proxy/.github</code> is a special repository<br>It contains the organization's <code>/profile/README.md</code> 
 
 | Domain(s) | (Sub)directory |
 -|-
